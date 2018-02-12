@@ -1,0 +1,24 @@
+{
+  "name": "passport_by_mayur",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mayur Kapadia",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "express-session": "^1.15.6",
+    "mongodb": "^3.0.2",
+    "mongoose": "^5.0.4",
+    "node-localstorage": "^1.3.0",
+    "passport": "^0.4.0"
+  },
+  "devDependencies": {
+    "passport-local": "^1.0.0"
+  }
+}
